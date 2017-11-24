@@ -9,7 +9,7 @@ function whisper(string){
 
 
 function logShout(string) {
-  console.console.log(string.toUpperCase());
+  console.log(string.toUpperCase());
 }
 
 function logWhisper(string){
@@ -29,10 +29,6 @@ function sayHiToGrandma(string) {
 
     }
 
-  else {
-    return("come again");
-
-  }
 
 }
 
