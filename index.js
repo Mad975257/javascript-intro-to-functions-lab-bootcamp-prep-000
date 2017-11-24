@@ -11,10 +11,10 @@ function sayHiToGrandma(string) {
     return("I can\'t hear you!");
   }
     else if (string.toUpperCase() === string) {
-      return("YES INDEED");
+      return("YES INDEED!");
   }
 
-    else if (string === "I love you, Grandma.") {
+    else if (string === "I love you,Grandma.") {
       return ("I love you,too");
 
     }
@@ -33,4 +33,4 @@ shout("hello")
 whisper("Hello")
 sayHiToGrandma("what")
 sayHiToGrandma("WHAT")
-sayHiToGrandma("I Love you, Grandma.")
+sayHiToGrandma("I Love you,Grandma.")
