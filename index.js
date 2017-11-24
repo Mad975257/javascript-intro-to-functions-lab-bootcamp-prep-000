@@ -41,6 +41,8 @@ function sayHiToGrandma(string) {
 
 shout("hello")
 whisper("Hello")
+logShout("hi")
+logWhisper("HI")
 sayHiToGrandma("what")
 sayHiToGrandma("WHAT")
 sayHiToGrandma("I Love you,Grandma.")
