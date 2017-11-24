@@ -14,7 +14,7 @@ function sayHiToGrandma(string) {
       return("YES INDEED");
   }
 
-    else if (string === "I love you, Grandma") {
+    else if (string === "I love you, Grandma.") {
       return ("I love you,too");
 
     }
@@ -33,4 +33,4 @@ shout("hello")
 whisper("Hello")
 sayHiToGrandma("what")
 sayHiToGrandma("WHAT")
-sayHiToGrandma("I Love you, Grandma")
+sayHiToGrandma("I Love you, Grandma.")
